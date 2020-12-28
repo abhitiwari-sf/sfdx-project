@@ -185,26 +185,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Bot_Command__c.Active__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Bot_Command__c.Apex_Class__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Bot_Command__c.Pattern__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Bot_Command__c.Sample_Utterance__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Broker__c.Broker_Id__c</field>
         <readable>false</readable>
